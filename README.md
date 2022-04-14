@@ -1,14 +1,14 @@
 
-![GitHub repo size](https://img.shields.io/github/repo-size/code-x-mania/filestreambot?color=yellow)
+![GitHub repo size](https://img.shields.io/github/repo-size/adarsh-goel/filestreambot?color=yellow)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://t.me/filetoliprobot)
 [![Telegram -Bot](https://img.shields.io/badge/Telegram-Bot_2-purple.svg)](https://t.me/filetoliprorobot)
-![GitHub](https://img.shields.io/github/license/code-x-mania/filestreambot)
+![GitHub](https://img.shields.io/github/license/adarsh-goel/filestreambot)
 [![Bot Support](https://img.shields.io/badge/File%20Stream%20Bot-support%20group-blue)](https://t.me/codexmaniachat)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://t.me/codexmania)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/code-x-mania/filestreambot)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/adarsh-goel/filestreambot)
 <h1 align="center">FileStreamBot</h1>
 <p align="center">
-  <img src="https://socialify.git.ci/Code-X-Mania/filestreambot/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+  <img src="https://socialify.git.ci/adarsh-goel/filestreambot/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   
 
   
@@ -27,9 +27,9 @@
    
     
    
-   <a href="https://github.com/code-x-mania/FileStreamBot/issues">Report a Bug</a>
+   <a href="https://github.com/adarsh-goel/FileStreamBot/issues">Report a Bug</a>
     |
-    <a href="https://github.com/code-x-mania/FileStreamBot/issues">Request Feature</a>
+    <a href="https://github.com/adarsh-goel/FileStreamBot/issues">Request Feature</a>
   </p>
 
 
@@ -66,7 +66,7 @@ Press the below button to  deploy on Heroku
   
   Press the below button to  deploy on Railway 
   
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FCode-X-Mania%2Ffilestreambot&envs=API_HASH%2CAPI_ID%2CFQDN%2CDATABASE_URL%2CBOT_TOKEN%2CHAS_SSL%2CNO_PORT%2COWNER_ID%2CPORT%2COWNER_USERNAME%2CSESSION_NAME%2CUPDATES_CHANNEL%2CBIN_CHANNEL&API_HASHDesc=Get+it+from+my.telegram.org&API_IDDesc=Get+it+from+my.telegram.org&FQDNDesc=Your+railway+app+URL&DATABASE_URLDesc=Get+it+from+mongodb.com&BOT_TOKENDesc=Get+it+from+%40botfather&HAS_SSLDesc=Don%27t+touch+this&NO_PORTDesc=keep+default+value.&OWNER_IDDesc=Your+telegram+id+&PORTDesc=Default+is+8080&OWNER_USERNAMEDesc=Your+telegram+username+without+%40&SESSION_NAMEDesc=Keep+default+or+enter+your+name&UPDATES_CHANNELDesc=channel+username+without+%40++else+None&BIN_CHANNELDesc=Private+channels+username&FQDNDefault=EDIT+AFTER+DEPLOYING+THE+BOT+LEAVE+IT+AS+IT+IS+RIGHT+NOW&BOT_TOKENDefault=also+add+bot+to+bin+channel+and+updates+channel+if+any&HAS_SSLDefault=True&NO_PORTDefault=False&OWNER_IDDefault=+get+it+from+%40username_to_id_bot&PORTDefault=8080&OWNER_USERNAMEDefault=adarsh_goel&SESSION_NAMEDefault=I_love_opensource&UPDATES_CHANNELDefault=None&BIN_CHANNELDefault=also+add+bot+to+it&referralCode=ADARSH)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fadarsh-goel%2Ffilestreambot&envs=API_HASH%2CAPI_ID%2CFQDN%2CDATABASE_URL%2CBOT_TOKEN%2CHAS_SSL%2CNO_PORT%2COWNER_ID%2CPORT%2COWNER_USERNAME%2CSESSION_NAME%2CUPDATES_CHANNEL%2CBIN_CHANNEL&API_HASHDesc=Get+it+from+my.telegram.org&API_IDDesc=Get+it+from+my.telegram.org&FQDNDesc=Your+railway+app+URL&DATABASE_URLDesc=Get+it+from+mongodb.com&BOT_TOKENDesc=Get+it+from+%40botfather&HAS_SSLDesc=Don%27t+touch+this&NO_PORTDesc=keep+default+value.&OWNER_IDDesc=Your+telegram+id+&PORTDesc=Default+is+8080&OWNER_USERNAMEDesc=Your+telegram+username+without+%40&SESSION_NAMEDesc=Keep+default+or+enter+your+name&UPDATES_CHANNELDesc=channel+username+without+%40++else+None&BIN_CHANNELDesc=Private+channels+username&FQDNDefault=EDIT+AFTER+DEPLOYING+THE+BOT+LEAVE+IT+AS+IT+IS+RIGHT+NOW&BOT_TOKENDefault=also+add+bot+to+bin+channel+and+updates+channel+if+any&HAS_SSLDefault=True&NO_PORTDefault=False&OWNER_IDDefault=+get+it+from+%40username_to_id_bot&PORTDefault=8080&OWNER_USERNAMEDefault=adarsh_goel&SESSION_NAMEDefault=I_love_opensource&UPDATES_CHANNELDefault=None&BIN_CHANNELDefault=also+add+bot+to+it&referralCode=ADARSH)
   
  <p><b>Available commands and features:</b>
  
@@ -86,7 +86,7 @@ Press the below button to  deploy on Heroku
 
 
 ```py
-git clone https://github.com/code-x-mania/FileStreamBot
+git clone https://github.com/adarsh-goel/FileStreamBot
 cd FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -167,7 +167,7 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 
 ### 🔷 Credits : 
 
-- [Adarsh Goel_(me)](https://t.me/codexmania)
+- [Adarsh Goel_(me)](https://github.com/adarsh-goel)
 - [EverythingSuckz](https://github.com/EverythingSuckz) 
 - Everyone In This Journey !
 - `Feel free to contribute 😀`
